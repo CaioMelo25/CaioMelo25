@@ -1,4 +1,4 @@
-# Olá, eu sou Caio Melo Borges!
+# Olá!
 
 👋 Meu nome é **Caio Melo Borges**, tenho 22 anos e sou estudante de **Engenharia de Software** na **Universidade de Brasília (UnB)**.
 
@@ -22,7 +22,7 @@ Obrigado por visitar meu perfil no GitHub!
 
 ---
 
-# Hello, I'm Caio Melo Borges!
+# Hello!
 
 👋 My name is **Caio Melo Borges**, I am 22 years old, and I am a student of **Software Engineering** at the **University of Brasília (UnB)**.
 
