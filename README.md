@@ -13,8 +13,16 @@ Estou em constante busca de aperfeiçoamento técnico e de adquirir novas habili
 - **Power BI:** Básico
 - **Estudante** em diversas outras áreas de desenvolvimento de software e TI.
 
-### 📫 Contato
-Se você quiser entrar em contato comigo, pode me enviar um e-mail para [caio.borges250802@gmail.com](mailto:caio.borges250802@gmail.com).
+## GitHub Stats
+
+![Caio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaioMelo25&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMelo25&layout=compact&theme=radical)
+
+
+## Contato
+[![E-mail](https://img.shields.io/badge/Email-caio.borges250802%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caio.borges250802@gmail.com)
+
 
 ---
 
@@ -38,8 +46,9 @@ I am constantly seeking technical improvement and acquiring new skills, aiming t
 - **Student** in various other areas of software development and IT.
 
 
-### 📫 Contact
-If you would like to get in touch with me, feel free to send an email to [caio.borges250802@gmail.com](mailto:caio.borges250802@gmail.com).
+## Contact
+[![E-mail](https://img.shields.io/badge/Email-caio.borges250802%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caio.borges250802@gmail.com)
+
 
 ---
 
