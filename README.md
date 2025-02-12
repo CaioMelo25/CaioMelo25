@@ -8,7 +8,7 @@ Atualmente, trabalho como **Estagiário de TI** no **Ministério das Relações 
 Estou em constante busca de aperfeiçoamento técnico e de adquirir novas habilidades, com o objetivo de me tornar um profissional completo e preparado para contribuir em grandes projetos de software.
 
 ### 💻 Habilidades
-- **Backend:** Java (básico)
+- **Backend:** Java, Node.js
 - **Power Apps:** Avançado
 - **Power BI:** Básico
 - **Estudante** em diversas outras áreas de desenvolvimento de software e TI.
@@ -40,7 +40,7 @@ I currently work as an **IT Intern** at the **Ministry of Foreign Affairs**, wor
 I am constantly seeking technical improvement and acquiring new skills, aiming to become a well-rounded professional ready to contribute to large software projects.
 
 ### 💻 Skills
-- **Backend:** Java (basic)
+- **Backend:** Java, Node.js
 - **Power Apps:** Advanced
 - **Power BI:** Basic
 - **Student** in various other areas of software development and IT.
