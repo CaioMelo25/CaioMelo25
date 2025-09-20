@@ -7,14 +7,14 @@
 ---
 ## English Version
 
-### Hi there, I'm Caio Melo Borges
+### Hi there, I'm Caio Melo Borges 👋
 
-### Software Engineering Undergraduate | Back-End Developer |
+### Software Engineering Undergraduate | Back-End Developer | Cloud & DevOps Enthusiast
 
-I am a Software Engineering student at the University of Brasília (UnB) with a passion for building solutions that solve real-world problems.
+I am a Software Engineering student at the University of Brasília (UnB) with a passion for building scalable solutions that solve real-world problems.
 
-- Currently a **Software Developer Intern** at **Singular Govtech**, where I work with JavaScript to help modernize public administration in Brazil.
-- I have hands-on experience developing AI-integrated applications, most notably using the **Cohere API** to power a bot for my "DF em Obras" university project.
+- Currently an **Innovation Fellow** in a project partnership between **Ford and IEL**, focusing on cloud automation (GCP, Tekton, Terraform) and application security.
+- I have experience contributing to large-scale national projects, helping modernize public administration in Brazil and automating processes at the Ministry of Foreign Affairs.
 - I'm a lifelong learner, always exploring new technologies and seeking challenges that push me to grow.
 
 ---
@@ -25,9 +25,9 @@ I am a Software Engineering student at the University of Brasília (UnB) with a 
 |---|---|
 | **Languages** | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> |
 | **Back-End** | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> |
-| **Databases**| <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"> |
-| **AI/ML** | <img src="https://img.shields.io/badge/Cohere-3141FF?style=for-the-badge&logo=cohere&logoColor=white"> |
-| **Tools & Platforms**| <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge&logo=microsoftpowerplatform&logoColor=white"> <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"> |
+| **Databases**| <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"> |
+| **Cloud & DevOps**| <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Tekton-2763B5?style=for-the-badge&logo=tekton&logoColor=white"> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"> |
+| **Tools & Platforms**| <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge&logo=microsoftpowerplatform&logoColor=white"> |
 
 ---
 
@@ -42,7 +42,8 @@ A web application developed to provide transparent, interactive visualizations o
 ---
 
 ### Professional Experience
-- **Software Developer Intern** @ **Singular Govtech** (Mar 2025 - Present)
+- **Innovation Fellow** @ **Ford / IEL** (Sep 2025 - Present)
+- **Software Developer Intern** @ **Singular Govtech** (Mar 2025 - Sep 2025)
 - **IT Intern** @ **Ministry of Foreign Affairs** (May 2023 - Feb 2025)
 
 ---
@@ -64,16 +65,15 @@ A web application developed to provide transparent, interactive visualizations o
 
 ## Versão em Português
 
-### Olá, eu sou o Caio Melo Borges
+### Olá, eu sou o Caio Melo Borges 👋
 
-### Graduando em Engenharia de Software | Desenvolvedor Back-End |
+### Graduando em Engenharia de Software | Desenvolvedor Back-End | Entusiasta de Cloud & DevOps
 
-Sou estudante de Engenharia de Software na Universidade de Brasília (UnB) e apaixonado por construir soluções que resolvem problemas do mundo real.
+Sou estudante de Engenharia de Software na Universidade de Brasília (UnB) e apaixonado por construir soluções escaláveis que resolvem problemas do mundo real.
 
-- Atualmente sou **Desenvolvedor de Software Estagiário** na **Singular Govtech**, onde trabalho com JavaScript para ajudar a modernizar a gestão pública no Brasil.
-- Tenho experiência prática no desenvolvimento de aplicações com integração de IA, com destaque para o uso da **API da Cohere** em um bot para o meu projeto universitário "DF em Obras".
+- Atualmente sou **Bolsista de Inovação** em um projeto em parceria entre a **Ford e o IEL**, com foco em automação de nuvem (GCP, Tekton, Terraform) e segurança de aplicações.
+- Tenho experiência contribuindo para projetos nacionais de grande escala, ajudando a modernizar a gestão pública no Brasil e automatizando processos no Ministério das Relações Exteriores.
 - Estou em constante aprendizado, sempre explorando novas tecnologias e buscando desafios que me impulsionam a crescer.
-- Buscando ativamente por oportunidades de estágio em Engenharia de Software para 2026 nos EUA ou na Europa.
 
 ---
 
@@ -83,9 +83,9 @@ Sou estudante de Engenharia de Software na Universidade de Brasília (UnB) e apa
 |---|---|
 | **Linguagens** | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> |
 | **Back-End** | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> |
-| **Bancos de Dados**| <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"> |
-| **IA/ML** | <img src="https://img.shields.io/badge/Cohere-3141FF?style=for-the-badge&logo=cohere&logoColor=white"> |
-| **Ferramentas & Plataformas**| <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge&logo=microsoftpowerplatform&logoColor=white"> <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"> |
+| **Bancos de Dados**| <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"> |
+| **Cloud & DevOps**| <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Tekton-2763B5?style=for-the-badge&logo=tekton&logoColor=white"> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"> |
+| **Ferramentas & Plataformas**| <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge&logo=microsoftpowerplatform&logoColor=white"> |
 
 ---
 
@@ -100,7 +100,8 @@ Uma aplicação web desenvolvida para fornecer visualizações interativas e tra
 ---
 
 ### Experiência Profissional
-- **Desenvolvedor de Software Estagiário** @ **Singular Govtech** (Mar 2025 - Atualmente)
+- **Bolsista de Projeto de Inovação** @ **Ford / IEL** (Set 2025 - Atualmente)
+- **Desenvolvedor de Software Estagiário** @ **Singular Govtech** (Mar 2025 - Set 2025)
 - **Estagiário de TI** @ **Ministério das Relações Exteriores** (Mai 2023 - Fev 2025)
 
 ---
