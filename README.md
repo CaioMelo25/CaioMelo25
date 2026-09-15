@@ -203,13 +203,3 @@ Lead Data Engineer. ETL tolerante a falhas sobre APIs governamentais instáveis,
 </p>
 
 ---
-
-### GitHub Stats
-
-<p align="center">
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioMelo25&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMelo25&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-</p>
